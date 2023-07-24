@@ -1,0 +1,68 @@
+{
+  "date": "20230724T175433Z",
+  "total": {
+    "characters-without-spaces": 40,
+    "characters": 46,
+    "words": 9,
+    "files": 1,
+    "segments": 3
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 19,
+    "characters": 23,
+    "words": 5,
+    "files": 1,
+    "segments": 1
+  },
+  "unique": {
+    "characters-without-spaces": 40,
+    "characters": 46,
+    "words": 9,
+    "files": 1,
+    "segments": 3
+  },
+  "project": {
+    "root": "C:/Users/briac/Desktop/omegat-team-project2/",
+    "source-language": "en",
+    "target-language": "fr",
+    "name": "omegat-team-project2"
+  },
+  "files": [{
+    "total": {
+      "characters-without-spaces": 40,
+      "characters": 46,
+      "words": 9,
+      "files": 0,
+      "segments": 3
+    },
+    "filename": "oyster.html",
+    "unique-remaining": {
+      "characters-without-spaces": 19,
+      "characters": 23,
+      "words": 5,
+      "files": 0,
+      "segments": 1
+    },
+    "unique": {
+      "characters-without-spaces": 40,
+      "characters": 46,
+      "words": 9,
+      "files": 0,
+      "segments": 3
+    },
+    "remaining": {
+      "characters-without-spaces": 19,
+      "characters": 23,
+      "words": 5,
+      "files": 0,
+      "segments": 1
+    }
+  }],
+  "remaining": {
+    "characters-without-spaces": 19,
+    "characters": 23,
+    "words": 5,
+    "files": 1,
+    "segments": 1
+  }
+}
